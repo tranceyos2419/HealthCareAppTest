@@ -1,0 +1,6 @@
+Please check out test.js
+
+The result of this code is
+
+{readyState: 1, getResponseHeader: ƒ, getAllResponseHeaders: ƒ, setRequestHeader: ƒ, overrideMimeType: ƒ, …}abort: ƒ (a)always: ƒ ()catch: ƒ (a)done: ƒ ()fail: ƒ ()getAllResponseHeaders: ƒ ()getResponseHeader: ƒ (a)overrideMimeType: ƒ (a)pipe: ƒ ()progress: ƒ ()arguments: (...)caller: (...)length: 0name: "add"prototype: {constructor: ƒ}__proto__: ƒ ()[[FunctionLocation]]: jquery-3.2.1.min.js:2[[Scopes]]: Scopes[3]promise: ƒ (a)readyState: 4responseJSON: code: "400"message: "Request body is empty."__proto__: ObjectresponseText: "{"code":"400","message":"Request body is empty."}"setRequestHeader: ƒ (a,b)arguments: (...)caller: (...)length: 2name: "setRequestHeader"prototype: {constructor: ƒ}__proto__: ƒ ()[[FunctionLocation]]: jquery-3.2.1.min.js:4[[Scopes]]: Scopes[3]state: ƒ ()status: 400statusCode: ƒ (a)arguments: (...)caller: (...)length: 1name: "statusCode"prototype: {constructor: ƒ}constructor: ƒ (a)__proto__: Object__proto__: ƒ ()[[FunctionLocation]]: jquery-3.2.1.min.js:4[[Scopes]]: Scopes[3]statusText: "Bad Request"then: ƒ (b,d,e)__proto__: Object
+test.html:1 POST https://demo.personium.io/app-aizu-health-store/__/html/Engine/getAppAuthToken 400 (Bad Request)
